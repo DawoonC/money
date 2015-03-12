@@ -42,7 +42,7 @@ class Money implements \JsonSerializable
         PHP_ROUND_HALF_DOWN,
         PHP_ROUND_HALF_EVEN,
         PHP_ROUND_HALF_ODD
-    ];
+    ];               
 
     /**
      * @param  integer                                  $amount

@@ -8,7 +8,7 @@
  * file that was distributed with this source code.
  */
 
-namespace SebastianBergmann\Money
+namespace SebastianBergmann\Money;
 
 /**
  * Value Object that represents a currency.
